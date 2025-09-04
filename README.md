@@ -14,14 +14,14 @@ I have a strong foundation in Data Structures & Algorithms, and a passion for bu
 
 ---
 
-### 🤝 Connect with me  
+### 🤝 Connect with me 
 <p align="left">
-  <a href="https://linkedin.com/in/nilesh-saraswat-320156343" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>&nbsp;&nbsp;
-  <a href="mailto:saraswatnilesh3@gmail.com" target="_blank">
+<a href="mailto:saraswatnilesh3@gmail.com" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" alt="Gmail" height="30" width="40" />
   </a>
+  </a>&nbsp;&nbsp;
+<a href="https://linkedin.com/in/nilesh-saraswat-320156343" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />  
 </p>
 
 ---
