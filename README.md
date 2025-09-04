@@ -15,17 +15,35 @@ allowing me to craft seamless user experiences backed by robust logic.
 - 🤝 I’m looking for help with **advanced full-stack development concepts**.  
 - 💬 Ask me about **React, JavaScript, Python, or anything tech-related!**  
 - 📫 Reach me at **saraswatnilesh3@gmail.com**  
-- 📄 Know more about my experiences from my **[Resume](#)**  
+- 📄 Know more about my experiences from my **[Resume](https://your-resume-link.com)**  
 
 ---
 
 <h3 align="left">🌐 Connect with me:</h3>
 <p align="left">
+<a href="mailto:saraswatnilesh3@gmail.com" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Gmail" height="30" width="40"/>
+</a>
 <a href="https://linkedin.com/in/nilesh-saraswat-320156343" target="_blank">
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40"/>
 </a>
+</p>
+
+---
+
+<h3 align="left">💻 Coding Profiles:</h3>
+<p align="left">
 <a href="https://leetcode.com/u/Nilesh3011/" target="_blank">
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40"/>
+</a>
+<a href="https://www.geeksforgeeks.org/user/saraswatssc8/" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" alt="GeeksforGeeks" height="30" width="40"/>
+</a>
+<a href="https://www.codechef.com/users/hardy_jazz_56" target="_blank">
+  <img src="https://cdn.codechef.com/sites/all/themes/abessive/cc-logo.svg" alt="CodeChef" height="35" width="40"/>
+</a>
+<a href="https://codeforces.com/profile/nilesh30" target="_blank">
+  <img src="https://upload.wikimedia.org/commons/6/6a/Codeforces_logo.svg" alt="Codeforces" height="30" width="40"/>
 </a>
 </p>
 
@@ -59,8 +77,14 @@ allowing me to craft seamless user experiences backed by robust logic.
 ---
 
 <h3 align="left">📊 GitHub Stats:</h3>
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=nileshsaraswat&show_icons=true&locale=en" alt="nileshsaraswat" />
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nileshsaraswat&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=nileshsaraswat&theme=tokyonight" alt=
+
 </p>
 <p>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nileshsaraswat" alt="nileshsaraswat" />
