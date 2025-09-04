@@ -12,8 +12,7 @@ allowing me to craft seamless user experiences backed by robust logic.
 - 🔭 I’m currently working on enhancing my skills in **Data Structures and Algorithms**.  
 - 🌱 I’m currently learning **Next.js** and **System Design**.  
 - 👯 I’m looking to collaborate on **Open Source Projects**, especially those using **React** or **Python**.  
-- 🤝 I’m looking for help with **advanced full-stack development concepts**.  
-- 💬 Ask me about **React, JavaScript, Python, or anything tech-related!**  
+- 🤝 I’m looking for help with **full-stack development concepts**.  
 - 📫 Reach me at **saraswatnilesh3@gmail.com**  
 - 📄 Know more about my experiences from my **[Resume](https://your-resume-link.com)**  
 
@@ -43,7 +42,7 @@ allowing me to craft seamless user experiences backed by robust logic.
   <img src="https://cdn.codechef.com/sites/all/themes/abessive/cc-logo.svg" alt="CodeChef" height="35" width="40"/>
 </a>
 <a href="https://codeforces.com/profile/nilesh30" target="_blank">
-  <img src="https://upload.wikimedia.org/commons/6/6a/Codeforces_logo.svg" alt="Codeforces" height="30" width="40"/>
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Codeforces" height="30" width="40"/>
 </a>
 </p>
 
@@ -79,17 +78,15 @@ allowing me to craft seamless user experiences backed by robust logic.
 <h3 align="left">📊 GitHub Stats:</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nileshsaraswat&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nilesh325&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=nileshsaraswat&theme=tokyonight" alt=
+  <img src="https://streak-stats.demolab.com?user=nilesh325&theme=tokyonight" alt="GitHub Streak" />
+</p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nilesh325&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
-<p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nileshsaraswat" alt="nileshsaraswat" />
-</p>
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nileshsaraswat&layout=compact" alt="nileshsaraswat" />
-</p>
+
 
