@@ -14,11 +14,6 @@ I have a strong foundation in Data Structures & Algorithms, and a passion for bu
 
 ---
 
-### 📫 How to reach me  
-- Email: **saraswatnilesh3@gmail.com**  
-
----
-
 ### 🤝 Connect with me  
 <p align="left">
   <a href="https://linkedin.com/in/nilesh-saraswat-320156343" target="_blank">
