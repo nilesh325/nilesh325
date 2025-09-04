@@ -71,8 +71,10 @@ I have a strong foundation in Data Structures & Algorithms, and a passion for bu
 <p align="left">
   <a href="https://drive.google.com/file/d/1KyXDjnehfQdMaU7Al6j2yowGtH9nkv7U/view?usp=sharing" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/adobeacrobatreader.svg" alt="Resume" height="40" width="40" />
+    <span style="font-size: 18px; margin-left: 10px;">View My Resume</span>
   </a>
 </p>
+
 
 
 
