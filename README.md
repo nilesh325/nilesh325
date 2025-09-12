@@ -7,6 +7,20 @@ I have a strong foundation in Data Structures & Algorithms, and a passion for bu
 
 ---
 
+### 🧩 Badges (via GitHub Achievements)
+
+![MultiLanguage](https://img.shields.io/badge/MultiLanguage-RainbowLangUser-10pt)
+![Followers](https://img.shields.io/badge/Followers-FamousUser-12pt)
+![Stars](https://img.shields.io/badge/Stars-MiddleStar-8pt)
+
+---
+
+### 🏆 GitHub Stats & Badges
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=nilesh325)
+
+---
+
 ### 🔭 What I’m working on
 - Enhancing my skills in Data Structures and Algorithms  
 - Learning **Next.js** and **System Design**  
@@ -61,7 +75,7 @@ I have a strong foundation in Data Structures & Algorithms, and a passion for bu
 <p align="center">
   <!-- LeetCode -->
   <a href="https://leetcode.com/u/Nilesh3011/" target="_blank">
-    <img src="https://leetcard.jacoblin.cool/Nilesh3011?theme=tokyonight&font=Roboto&ext=heatmap" alt="LeetCode Stats" height="300"/>
+    <img src="https://leetcard.jacoblin.cool/Nilesh3011?theme=radical&font=Roboto&ext=heatmap" alt="LeetCode Stats" height="300"/>
   </a>
   <br/><br/>
 </p>
@@ -70,9 +84,13 @@ I have a strong foundation in Data Structures & Algorithms, and a passion for bu
 
 ### 📊 GitHub Stats
 <p align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=nilesh325&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="160"/>&nbsp;&nbsp; 
-  <img src="https://streak-stats.demolab.com?user=nilesh325&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="160"/>&nbsp;&nbsp; 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nilesh325&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="160"/> 
+  <img src="https://github-readme-stats.vercel.app/api?username=nilesh325&show_icons=true&theme=radical" alt="GitHub Stats" height="160"/>
+
+<!-- GitHub Streak -->
+  <img src="https://streak-stats.demolab.com?user=nilesh325&theme=radical&hide_border=true" alt="GitHub Streak" height="160"/>
+
+<!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nilesh325&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="160"/>
 </p> 
 
 ---
