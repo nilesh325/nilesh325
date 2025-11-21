@@ -15,12 +15,6 @@ I have a strong foundation in Data Structures & Algorithms, and a passion for bu
 
 ---
 
-### 🏆 GitHub Stats & Badges
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=nilesh325)
-
----
-
 ### 🔭 What I’m working on
 - Enhancing my skills in Data Structures and Algorithms  
 - Learning **Next.js** and **System Design**  
@@ -97,7 +91,7 @@ I have a strong foundation in Data Structures & Algorithms, and a passion for bu
 
 ### 📄 Resume
 <p align="left"> 
-  <a href="https://drive.google.com/file/d/1KyXDjnehfQdMaU7Al6j2yowGtH9nkv7U/view?usp=sharing" target="_blank"> 
+  <a href="https://drive.google.com/file/d/1KyXDjnehfQdMaU7Al6j2yowGtH9nkv7U/view" target="_blank"> 
     <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/adobeacrobatreader.svg" alt="Resume" height="40" width="40" /> 
     <span style="font-size: 18px; margin-left: 10px;">View My Resume</span> 
   </a> 
