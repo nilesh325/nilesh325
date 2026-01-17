@@ -77,15 +77,8 @@ I have a strong foundation in Data Structures & Algorithms, and a passion for bu
 ---
 
 ### 📊 GitHub Stats
-<p align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=nilesh325&show_icons=true&theme=radical" alt="GitHub Stats" height="160"/>
-
 <!-- GitHub Streak -->
   <img src="https://streak-stats.demolab.com?user=nilesh325&theme=radical&show_icons=true" alt="GitHub Streak" height="160"/>
-
-<!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nilesh325&layout=compact&theme=radical&show_icons=true" alt="Top Languages" height="160"/>
-</p> 
 
 ---
 
