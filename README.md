@@ -80,7 +80,7 @@ I have a strong foundation in Data Structures & Algorithms, and a passion for bu
 <!-- GitHub Streak -->
 <p align="center">
   <a>
-  <img src="https://streak-stats.demolab.com?user=nilesh325&theme=radical&show_icons=true" alt="GitHub Streak" height="160"/>
+  <img src="https://streak-stats.demolab.com?user=nilesh325&theme=radical&show_icons=true" alt="GitHub Streak" height="180"/>
    </a>
   <br/><br/>
 </p>
